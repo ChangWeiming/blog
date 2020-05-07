@@ -1,0 +1,16 @@
+#root-login {
+    position: relative;
+    top: 30%;
+    left: 25%;
+    width: 50%;
+}
+
+
+
+.input-box {
+    margin-bottom: 2%;
+}
+
+#submit-button {
+    float: right;
+}

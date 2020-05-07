@@ -1,0 +1,11 @@
+blog-frontend/node_modules/
+blog-frontend/config/
+blog-frontend/scripts/
+blog-frontend/build/
+blog-frontend/package.json
+blog-frontend/package-lock.json
+
+*.zip
+
+#vim files
+*.swp

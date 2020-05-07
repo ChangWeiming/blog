@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+#components-layout-demo-side .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+}
+  
+.site-layout .site-layout-background {
+    background: #fff;
+    text-align: center;
+    height: auto;
+}
+
+.main-gravatar {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    width: 256px;
+    height: 256px;
+    border-radius: 100%;
+}

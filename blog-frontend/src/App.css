@@ -1,0 +1,4 @@
+.Sider > .MenuSider{
+    position:"fixed";
+    width: "inherit";
+}

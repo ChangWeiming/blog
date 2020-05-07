@@ -1,0 +1,23 @@
+#passage-container{
+    background-color: white;
+    word-wrap: break-word;
+    word-break: normal;
+    text-align: center;
+    margin: 3vh 8% 3vh 8%;
+    width: 84%;
+    min-height: 94vh;
+    bottom: 0;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+#passage-header{
+    margin: 2% 1% 1% 1%;
+    font-size: 1.73rem;
+    
+}
+
+#passage-content{
+    margin: 2% 1% 1% 1%;
+    font-size: 1rem;
+    text-align: left;
+}

@@ -1,0 +1,28 @@
+#loading-tag{
+    left: 50%;
+    top: 300%;
+    bottom: 0%;
+    position: relative;
+}
+
+#passage-submit{
+    display: block;
+    float:right;
+    right: 8%;
+    position: relative;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+#title {
+    display: block;
+    width: 84%;
+    margin: 6% 8% 1.5% 8%;
+}
+
+#abstract {
+    margin-top: 0;
+    margin-left: 8%;
+    display: block;
+    width: 84%;
+}
